@@ -1,0 +1,25 @@
+# This is how you add comments in this file
+com.snaplogic.SafeNetProtectApp.DocGenerator {
+    allow java.security.AllPermission;
+}
+com.snaplogic.SafeNetProtectApp.DocConsumer {
+    allow java.security.AllPermission;
+}
+com.snaplogic.SafeNetProtectApp.PropertyTypes {
+    allow java.security.AllPermission;
+}
+com.snaplogic.SafeNetProtectApp.SchemaExample {
+    allow java.security.AllPermission;
+}
+com.snaplogic.SafeNetProtectApp.SingleDocGenerator {
+    allow java.security.AllPermission;
+}
+com.snaplogic.SafeNetProtectApp.Suggest {
+    allow java.security.AllPermission;
+}
+com.snaplogic.SafeNetProtectApp.TwoInputs {
+    allow java.security.AllPermission;
+}
+com.snaplogic.SafeNetProtectApp.TwoInputsTwoOutputs {
+    allow java.security.AllPermission;
+}
